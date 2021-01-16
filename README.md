@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=breadfish18&show_icons=true)  
+
+![Profile views](https://komarev.com/ghpvc/?username=breadfish18&color=yellow)
 <!--
 **breadfish18/breadfish18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
